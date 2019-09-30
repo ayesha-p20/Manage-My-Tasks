@@ -7,3 +7,6 @@ To save a new task in the database, enter relevant details and hit 'CREATE NEW R
 ![image](https://user-images.githubusercontent.com/55396033/65837735-c728ba00-e2af-11e9-8361-4bd16cbef1ec.png)
 To view or edit tasks existing in the database, click on 'SHOW MY TASK LIST' or simply hit 'CANCEL' to close the application
 
+In the view window, select a task to edit or delete and hit 'EDIT TASK'
+
+Now enter new details and click 'SAVE' or just hit the 'DELETE' button to remove the task from the database.
