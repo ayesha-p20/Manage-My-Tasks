@@ -3,5 +3,7 @@ This is a side project that I created using tkinter and database (sqlite3) in Py
 ## Installation
 This program has been created in Python 3.7.0 and SQLite3
 ## Usage
+To save a new task in the database, enter relevant details and hit 'CREATE NEW REMINDER'
 ![image](https://user-images.githubusercontent.com/55396033/65837735-c728ba00-e2af-11e9-8361-4bd16cbef1ec.png)
+To view or edit tasks existing in the database, click on 'SHOW MY TASK LIST' or simply hit 'CANCEL' to close the application
 
