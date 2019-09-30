@@ -9,7 +9,11 @@ To view or edit tasks existing in the database, click on 'SHOW MY TASK LIST' or 
 In the view window, select a task to edit or delete and hit 'EDIT TASK'
 ![mt_3](https://user-images.githubusercontent.com/55396033/65909105-b5f9af00-e37c-11e9-916d-fee4edcb3250.png)
 Now enter new details and click 'SAVE' or just hit the 'DELETE' button to remove the task from the database.
+### Editing a task
 ![mmt_5](https://user-images.githubusercontent.com/55396033/65909236-083ad000-e37d-11e9-8dbe-b11c40a543ae.png)
+### Saving changes
 ![mmt_6](https://user-images.githubusercontent.com/55396033/65909243-0cff8400-e37d-11e9-8034-46713d5b2649.png)
+### Changes reflected on view window
 ![mmt_7](https://user-images.githubusercontent.com/55396033/65909262-125cce80-e37d-11e9-9acc-736added484e.png)
+### Deleting a task
 ![mmt_8](https://user-images.githubusercontent.com/55396033/65909270-17218280-e37d-11e9-93f6-143575a2c22c.png)
